@@ -1,0 +1,3 @@
+Read and follow `AGENTS.md` at the repo root. It is the single source of truth
+for design system rules. Then read the files in `docs/design-system/` before
+writing UI.
